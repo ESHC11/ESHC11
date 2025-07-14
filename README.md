@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ESHC11
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me camargoeric469@gmail.com
 
 
